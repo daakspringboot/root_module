@@ -1,0 +1,6 @@
+[submodule "subModule1"]
+	path = subModule1
+	url = https://github.com/daakspringboot/subModule1
+[submodule "subModule2"]
+	path = subModule2
+	url = https://github.com/daakspringboot/subModule2
